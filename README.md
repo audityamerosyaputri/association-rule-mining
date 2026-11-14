@@ -122,38 +122,20 @@ Praktikum ini mencakup empat tugas utama:
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/USERNAME/association-rule-mining.git
+   https://github.com/audityamerosyaputri/association-rule-mining.git
    ```
 
-2. Masuk ke folder proyek:
-
-   ```bash
-   cd association-rule-mining
-   ```
-
-3. Install library yang dibutuhkan:
+2. Install library yang dibutuhkan:
 
    ```bash
    pip install pandas numpy matplotlib mlxtend
    ```
 
-4. Buka file notebook menggunakan Jupyter Notebook atau Google Colab.
+3. Buka file notebook menggunakan Jupyter Notebook atau Google Colab.
 
-5. Pastikan dataset tersedia sesuai lokasi yang digunakan dalam kode program.
+4. Pastikan dataset tersedia sesuai lokasi yang digunakan dalam kode program.
 
-6. Jalankan seluruh cell program secara berurutan untuk mendapatkan hasil analisis.
-
-## 📁 Struktur Repository
-
-```text
-association-rule-mining/
-│
-├── association_rule_mining.ipynb
-├── dataset.csv
-└── README.md
-```
-
-*Catatan: Nama file dan struktur folder dapat disesuaikan dengan file yang benar-benar diunggah.*
+5. Jalankan seluruh cell program secara berurutan untuk mendapatkan hasil analisis.
 
 ## 👥 Anggota Kelompok
 
