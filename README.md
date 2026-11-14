@@ -157,11 +157,11 @@ association-rule-mining/
 
 ## 👥 Anggota Kelompok
 
-| No. | Nama | NIM | Username GitHub |
+| No. | Nama | NIM |
 |---|---|---|---|
-| 1 | [Nama Anggota 1] | [NIM] | [Username] |
-| 2 | [Nama Anggota 2] | [NIM] | [Username] |
-| 3 | [Nama Anggota 3] | [NIM] | [Username] |
+| 1 | AUDITYA MEROSYA PUTRI | 24343001 |
+| 2 | MUHAMMAD ZAHRAN | 24343077 |
+| 3 | MUHAMMAD RIYAD ANWARI | 24343044 |
 
 ## 🏫 Identitas Praktikum
 
