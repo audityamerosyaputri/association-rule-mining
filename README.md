@@ -140,9 +140,11 @@ Praktikum ini mencakup empat tugas utama:
 ## 👥 Anggota Kelompok
 
 | No. | Nama | NIM |
-|---|---|---|---|
+
 | 1 | [AUDITYA MEROSYA PUTRI] | [24343001] |
+
 | 2 | [MUHAMMAD ZAHRAN] | [24343077] |
+
 | 3 | [MUHAMMAD RIYAD ANWARI] | [24343044] |
 
 ## 🏫 Identitas Praktikum
