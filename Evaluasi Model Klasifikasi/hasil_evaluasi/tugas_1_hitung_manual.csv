@@ -1,0 +1,2 @@
+Model,Accuracy,Precision fraud,Recall fraud,F1 fraud,TN,FP,FN,TP
+Tugas 1,0.9,0.6666666666666666,0.75,0.7058823529411765,156,12,8,24
