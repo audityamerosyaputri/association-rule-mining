@@ -1,0 +1,19 @@
+aturan,support,confidence,lift
+"Mentega, Susu -> Roti",0.1833,1.0,3.3333
+"Roti -> Mentega, Susu",0.1833,0.6111,3.3333
+"Roti, Susu -> Mentega",0.1833,0.8462,2.9864
+"Mentega -> Roti, Susu",0.1833,0.6471,2.9864
+Sabun -> Shampo,0.15,0.6,2.7692
+Shampo -> Sabun,0.15,0.6923,2.7692
+"Mentega, Roti -> Susu",0.1833,0.8462,2.6721
+"Susu -> Mentega, Roti",0.1833,0.5789,2.6721
+Roti -> Mentega,0.2167,0.7222,2.549
+Mentega -> Roti,0.2167,0.7647,2.549
+Mie Instan -> Kecap,0.15,0.5,2.5
+Kecap -> Mie Instan,0.15,0.75,2.5
+Roti -> Susu,0.2167,0.7222,2.2807
+Susu -> Roti,0.2167,0.6842,2.2807
+Telur -> Mie Instan,0.1667,0.6667,2.2222
+Mie Instan -> Telur,0.1667,0.5556,2.2222
+Susu -> Mentega,0.1833,0.5789,2.0433
+Mentega -> Susu,0.1833,0.6471,2.0433
